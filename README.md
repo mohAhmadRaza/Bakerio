@@ -66,25 +66,25 @@ To run Bakerio on your local machine, follow these steps:
 ### Screenshots
 
 ![Dashboard](https://github.com/user-attachments/assets/da5f39af-fcb8-4b63-be48-c3c6fa0c038b)
-*Dashboard showcasing key metrics and insights.*
+**Dashboard showcasing key metrics and insights.**
 
 ![add](https://github.com/user-attachments/assets/8587d7d7-4d2d-4be2-a358-a71a8e0882cc)
-*Customer management interface to add and view customers.*
+**Customer management interface to add and view customers.**
 
 ![order](https://github.com/user-attachments/assets/7c0eb0a3-8dff-4b7c-9d88-e1ef57a0ec11)
-*Order tracking system for managing bakery orders.*
+**Order tracking system for managing bakery orders.**
 
 ![delete](https://github.com/user-attachments/assets/679e36df-c1f2-442e-a0a1-8496f3d94ec5)
-*Inventory management system for tracking stock levels.*
+**Inventory management system for tracking stock levels.**
 
 ![search](https://github.com/user-attachments/assets/3557457c-5939-444d-b2d3-5cdc81e18248)
-*Inventory management system for tracking stock levels.*
+**Inventory management system for tracking stock levels.**
 
 ![view](https://github.com/user-attachments/assets/cb1101c8-8e13-407b-80fb-74a1b15d3cea)
-*Inventory management system for tracking stock levels.*
+**Inventory management system for tracking stock levels.**
 
 ![update](https://github.com/user-attachments/assets/d10150b3-e463-407d-a8a5-25fd35a66015)
-*Inventory management system for tracking stock levels.*
+**Inventory management system for tracking stock levels.**
 
 ---
 
