@@ -65,7 +65,7 @@ To run Bakerio on your local machine, follow these steps:
 
 ### Screenshots
 
-![Dashboard](Screenshots/dashborad.png)
+![Dashboard](https://github.com/user-attachments/assets/da5f39af-fcb8-4b63-be48-c3c6fa0c038b)
 *Dashboard showcasing key metrics and insights.*
 
 ![Customer Management](Screenshots/add.png)
