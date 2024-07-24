@@ -65,25 +65,25 @@ To run Bakerio on your local machine, follow these steps:
 
 ### Screenshots
 
-![Dashboard](screenshots/dashborad.png)
+![Dashboard](Screenshots/dashborad.png)
 *Dashboard showcasing key metrics and insights.*
 
-![Customer Management](screenshots/add.png)
+![Customer Management](Screenshots/add.png)
 *Customer management interface to add and view customers.*
 
-![Order Tracking](screenshots/order.png)
+![Order Tracking](Screenshots/order.png)
 *Order tracking system for managing bakery orders.*
 
-![Delete Customers](screenshots/delete.png)
+![Delete Customers](Screenshots/delete.png)
 *Inventory management system for tracking stock levels.*
 
-![Search Customers](screenshots/search.png)
+![Search Customers](Screenshots/search.png)
 *Inventory management system for tracking stock levels.*
 
-![View Customers](screenshots/view.png)
+![View Customers](Screenshots/view.png)
 *Inventory management system for tracking stock levels.*
 
-![Update Details](screenshots/update.png)
+![Update Details](Screenshots/update.png)
 *Inventory management system for tracking stock levels.*
 
 ---
